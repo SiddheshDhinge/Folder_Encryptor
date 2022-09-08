@@ -5,6 +5,10 @@ The main files of the project:
 
 main.py - handles obfuscating file names
 
+below files are created by [@Volodymyr](https://github.com/volom)
+
+The credit of those files goes to him.
+
 encryptor.py - encrypts files with given password
 
 decryptor.py - decrypts files with given password
